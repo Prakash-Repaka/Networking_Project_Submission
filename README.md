@@ -150,8 +150,9 @@ VLAN tagging via IEEE 802.1Q standard.
 
 **Practical Work Done:**
 
+The following document will completely have the info of the practical work done 
 
-
+[Practical Learning(Week 1).docx](https://github.com/user-attachments/files/20532069/Practical.Learning.Week.1.docx)
 
 
 **Tool Usage:**
@@ -182,13 +183,3 @@ Learned the importance of VLANs in network segmentation, particularly the role o
 Improved my overall network design skills by connecting theoretical concepts with practical GNS3 implementations, simulating real-world scenarios like a college infrastructure.
 
 These insights laid a solid foundation for advanced network configuration and security tasks, and I feel more confident working with both the theoretical and practical aspects of computer networks.
-
-
-
-
-
-
-
-
-
-
